@@ -27,4 +27,4 @@ This book, Ultimate Llama for Natural Language Processing (NLP), takes you on a 
 3. [Ultimate Genetic Algorithms with Python](https://orangeava.com/products/ultimate-genetic-algorithms-with-python)
 
 ## Visit Website 
-[www.orangeava.com](https://orangeava.com
+[www.orangeava.com](https://orangeava.com)
